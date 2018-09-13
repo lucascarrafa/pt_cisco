@@ -4,7 +4,7 @@ A partir da versão Ubuntu 16.04 algumas bibliotecas/dependências necessárias 
 
 ## Download do software
 
-É necessário entrar no site do labredes.github.io para poder baixar o Packet Tracer
+É necessário entrar no site do [LabRedes](http://labredes.github.io) para poder baixar o Packet Tracer
 
 ## Instalação usando o script
 Coloque o arquivo baixado do Packet Tracer em uma pasta junto com os arquivos de instalação, é recomendado criar uma pasta só para essa tarefa, pois assim que o PacketTracer.tar.gx for descompactado vários arquivos irão surgir.
