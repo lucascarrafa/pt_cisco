@@ -25,5 +25,5 @@ $ ./instalador.sh
 
 ## Detalhes
 
-Observe que na hora da instalação ele solicita ao usuário que aceite os termos de uso do software, é um passo muito delicado, pois é necessário ficar dando ENTER e assim que se aproximar dos 100% uma falta de atenção pode fazer que todo o processo de instalação seja reiniciado do zero.
+Observe que na hora da instalação ele solicita ao usuário que aceite os termos de uso do software, é um passo muito delicado, pois é necessário ficar apertando ENTER e assim quando se aproximar dos 100% uma falta de atenção pode fazer que todo o processo de instalação seja reiniciado do zero.
 Durante a instalação é preciso a confirmação para dar sequência a instalação em várias partes, PRESTE BASTANTE ATENÇÃO :heavy_exclamation_mark:
